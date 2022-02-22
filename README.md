@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jezrien</h1>
+<h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">I am a backend developer</h3>
 
 - 🌱 I’m currently learning **Rust, Golang, Lua, Haskell**
