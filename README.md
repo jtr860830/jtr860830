@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Taiwan
-* ✉️  You can contact me at [jtr860830@gmail.com](mailto:work@josh-hsieh.tw)
+* ✉️  You can contact me at [work@josh-hsieh.tw](mailto:work@josh-hsieh.tw)
 * 🧠  I'm learning Rust
 
 ### Skills
