@@ -1,7 +1,3 @@
----
-title: about
----
-
 # About 關於我
 
 ## Bio 簡介
