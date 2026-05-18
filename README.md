@@ -2,7 +2,7 @@
 
 ## Bio 簡介
 
-My name is **Yu-Hang Hsieh**, but you can call me **Josh** in English, an engineer from Taiwan focused on infrastructure, systems programming and security. I enjoy working with Linux, container technologies and Rust.
+My name is **Yu-Hang Hsieh**, and you can call me **Josh**. I am an engineer and a Ph.D. student in Computer Science from Taiwan, focusing on infrastructure, systems programming, and security. I enjoy working with Linux, container technologies, and Rust.
 
 ## Outlines 經歷
 
