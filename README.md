@@ -6,13 +6,7 @@ My name is **Yu-Hang Hsieh**, and you can call me **Josh**. I am an engineer and
 
 ## Outlines 經歷
 
+- 🌐 [Personal Website 個人網站](https://www.josh.tw)
+- ✍️ [Blog 部落格](https://www.josh.tw/blog)
 - 📄 [CV 履歷](https://www.josh.tw/cv)
 - 🏅 [Certificates 證照](https://www.josh.tw/certificates)
-- ✍️ [Blog 部落格](https://www.josh.tw/blog)
-- 🐙 [GitHub](http://github.com/jtr860830)
-
-## Contact 聯繫方式
-
-- [Email](mailto:josh.hsieh@linux.com)
-- [Telegram](https://t.me/jtr860830)
-- [LinkedIn](https://www.linkedin.com/in/jtr860830)
